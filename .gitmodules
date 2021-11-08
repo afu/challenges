@@ -1,0 +1,204 @@
+[submodule "company/creditas"]
+	path = company/creditas
+	url = https://github.com/Creditas/challenge.git
+[submodule "company/challenge"]
+	path = company/challenge
+	url = https://github.com/lalamove/challenge.git
+[submodule "company/backend-challenges"]
+	path = company/backend-challenges
+	url = https://github.com/CollabCodeTech/backend-challenges.git
+[submodule "company/ieee-bigdata-challenge"]
+	path = company/ieee-bigdata-challenge
+	url = https://github.com/Seagate/BigDataChallenge.git
+[submodule "company/mit-bigdata-challenge"]
+	path = company/mit-bigdata-challenge
+	url = https://github.com/mitdbg/bigdata.git
+[submodule "company/tencent-bigdata-challenge-2017"]
+	path = company/tencent-bigdata-challenge-2017
+	url = https://github.com/Jeff-HOU/bigdata.git
+[submodule "company/getninjas-backend-rover-challenge"]
+	path = company/getninjas-backend-rover-challenge
+	url = https://github.com/getninjas/backend-rover-challenge.git
+[submodule "company/getninjas-backend-challenge"]
+	path = company/getninjas-backend-challenge
+	url = https://github.com/getninjas/backend-challenge.git
+[submodule "company/ifood-vemproifood-backend"]
+	path = company/ifood-vemproifood-backend
+	url = https://github.com/ifood/vemproifood-backend.git
+[submodule "company/ifood-ifood-backend-menu-test"]
+	path = company/ifood-ifood-backend-menu-test
+	url = https://github.com/ifood/ifood-backend-menu-test.git
+[submodule "company/ifood-backend-score-test"]
+	path = company/ifood-backend-score-test
+	url = https://github.com/ifood/ifood-backend-score-test.git
+[submodule "company/ifood-backend-payment-test"]
+	path = company/ifood-backend-payment-test
+	url = https://github.com/ifood/ifood-backend-payment-test.git
+[submodule "company/olist-work-at-olist"]
+	path = company/olist-work-at-olist
+	url = https://github.com/olist/work-at-olist.git
+[submodule "company/olist-work-at-olist-data"]
+	path = company/olist-work-at-olist-data
+	url = https://github.com/olist/work-at-olist-data.git
+[submodule "company/pagarme-vagas"]
+	path = company/pagarme-vagas
+	url = https://github.com/pagarme/vagas.git
+[submodule "company/PaytmLabs-WeblogChallenge"]
+	path = company/PaytmLabs-WeblogChallenge
+	url = https://github.com/PaytmLabs/WeblogChallenge.git
+[submodule "company/PaytmLabs-SoftwareChallenge"]
+	path = company/PaytmLabs-SoftwareChallenge
+	url = https://github.com/PaytmLabs/SoftwareChallenge.git
+[submodule "company/PaytmLabs-SREChallenge"]
+	path = company/PaytmLabs-SREChallenge
+	url = https://github.com/PaytmLabs/SREChallenge.git
+[submodule "company/stone-tech-challenge"]
+	path = company/stone-tech-challenge
+	url = https://github.com/stone-payments/tech-challenge.git
+[submodule "company/stone-python-dev-challenge"]
+	path = company/stone-python-dev-challenge
+	url = https://github.com/stone-payments/python-dev-challenge.git
+[submodule "company/uber-coding-challenge-tools"]
+	path = company/uber-coding-challenge-tools
+	url = https://github.com/uber-archive/coding-challenge-tools.git
+[submodule "company/zedelivery-code-challenges"]
+	path = company/zedelivery-code-challenges
+	url = https://github.com/ZXVentures/ze-code-challenges.git
+[submodule "company/AlayaCare-backend-python-test"]
+	path = company/AlayaCare-backend-python-test
+	url = https://github.com/AlayaCare/backend-python-test.git
+[submodule "company/AlayaCare-flask-sqlalchemy-test"]
+	path = company/AlayaCare-flask-sqlalchemy-test
+	url = https://github.com/AlayaCare/flask-sqlalchemy-test.git
+[submodule "company/AlayaCare-data-engineering-test"]
+	path = company/AlayaCare-data-engineering-test
+	url = https://github.com/AlayaCare/data-engineering-test.git
+[submodule "company/AfricasTalkingTalent-BackendCodeChallengeSeptember2018"]
+	path = company/AfricasTalkingTalent-BackendCodeChallengeSeptember2018
+	url = https://github.com/AfricasTalkingTalent/BackendCodeChallengeSeptember2018.git
+[submodule "company/AfricasTalkingTalent-TechnicalChallengeJune2019"]
+	path = company/AfricasTalkingTalent-TechnicalChallengeJune2019
+	url = https://github.com/AfricasTalkingTalent/TechnicalChallengeJune2019.git
+[submodule "company/AfricasTalkingTalent-January_2019_Infra_Challenge"]
+	path = company/AfricasTalkingTalent-January_2019_Infra_Challenge
+	url = https://github.com/AfricasTalkingTalent/January_2019_Infra_Challenge.git
+[submodule "company/AfricasTalkingTalent-AlfarBackendChallenge"]
+	path = company/AfricasTalkingTalent-AlfarBackendChallenge
+	url = https://github.com/AfricasTalkingTalent/AlfarBackendChallenge.git
+[submodule "company/addisonglobal-backend-technical-test"]
+	path = company/addisonglobal-backend-technical-test
+	url = https://github.com/addisonglobal/backend-technical-test.git
+[submodule "company/AmeDigital-challenge-back-end-hit"]
+	path = company/AmeDigital-challenge-back-end-hit
+	url = https://github.com/AmeDigital/challenge-back-end-hit.git
+[submodule "company/addisonglobal-data-technical-test"]
+	path = company/addisonglobal-data-technical-test
+	url = https://github.com/addisonglobal/data-technical-test.git
+[submodule "company/AmeDigital-challenge-back-end"]
+	path = company/AmeDigital-challenge-back-end
+	url = https://github.com/AmeDigital/challenge-back-end.git
+[submodule "company/AmeDigital-challenge-data-engineer"]
+	path = company/AmeDigital-challenge-data-engineer
+	url = https://github.com/AmeDigital/challenge-data-engineer.git
+[submodule "company/Ontraport-Backend-Test"]
+	path = company/Ontraport-Backend-Test
+	url = https://github.com/Ontraport/Backend-Test.git
+[submodule "company/TravixInternational-tech-test"]
+	path = company/TravixInternational-tech-test
+	url = https://github.com/Travix-International/tech-test.git
+[submodule "company/bcredi-teste-backends"]
+	path = company/bcredi-teste-backends
+	url = https://github.com/bcredi/teste-backends.git
+[submodule "company/bcredi-dataengineer-test"]
+	path = company/bcredi-dataengineer-test
+	url = https://github.com/bcredi/dataengineer-test
+[submodule "company/b2w-challenge-backend"]
+	path = company/b2w-challenge-backend
+	url = https://github.com/b2w-marketplace/challenge-backend.git
+[submodule "company/brainnco-readme-backend"]
+	path = company/brainnco-readme-backend
+	url = https://github.com/brainnco-exs/readme-backend.git
+[submodule "company/brainnco-readme-developer"]
+	path = company/brainnco-readme-developer
+	url = https://github.com/brainnco-exs/readme-developer.git
+[submodule "company/RocketBus-quero-ser-clickbus"]
+	path = company/RocketBus-quero-ser-clickbus
+	url = https://github.com/RocketBus/quero-ser-clickbus.git
+[submodule "company/LivingSocial-data-engineering"]
+	path = company/LivingSocial-data-engineering
+	url = https://github.com/igorman/data-engineering.git
+[submodule "company/PayPay-DataEngineerChallenge"]
+	path = company/PayPay-DataEngineerChallenge
+	url = https://github.com/Pay-Baymax/DataEngineerChallenge.git
+[submodule "company/PayPay-SoftwareEngineerChallenge"]
+	path = company/PayPay-SoftwareEngineerChallenge
+	url = https://github.com/Pay-Baymax/SoftwareEngineerChallenge.git
+[submodule "company/ZEPL-data-engineering-challenge"]
+	path = company/ZEPL-data-engineering-challenge
+	url = https://github.com/ZEPL/data-engineering-challenge.git
+[submodule "company/door2door-data-engineer-code-challenge"]
+	path = company/door2door-data-engineer-code-challenge
+	url = https://github.com/door2door-io/data-engineer-code-challenge.git
+[submodule "company/Mistplay-DataEngineerTakeHomeChallenge"]
+	path = company/Mistplay-DataEngineerTakeHomeChallenge
+	url = https://github.com/Mistplay/DataEngineerTakeHomeChallenge.git
+[submodule "company/ironhack-data-engineering-code-challenge"]
+	path = company/ironhack-data-engineering-code-challenge
+	url = https://github.com/ironhack/data-engineering-code-challenge.git
+[submodule "company/Sapient-Data-Engineer-Challenge"]
+	path = company/Sapient-Data-Engineer-Challenge
+	url = https://github.com/sonarsushant/Sapient-Data-Engineer-Challenge
+[submodule "company/SyftApplication-data-eng-coding-challenge"]
+	path = company/SyftApplication-data-eng-coding-challenge
+	url = https://github.com/Syft-Application/data-eng-coding-challenge.git
+[submodule "company/IPlytics-challenge-data-engineer"]
+	path = company/IPlytics-challenge-data-engineer
+	url = https://github.com/IPlytics-GmbH/challenge-data-engineer.git
+[submodule "company/PayFit-challenge-de1-public"]
+	path = company/PayFit-challenge-de1-public
+	url = https://github.com/PayFit/challenge-de1-public.git
+[submodule "company/hurbcom-de-challenge-foxtrot"]
+	path = company/hurbcom-de-challenge-foxtrot
+	url = https://github.com/hurbcom/challenge-foxtrot.git
+[submodule "company/hurbcom-be-challenge-bravo"]
+	path = company/hurbcom-be-challenge-bravo
+	url = https://github.com/hurbcom/challenge-bravo.git
+[submodule "company/uken-DataEngineerChallenge"]
+	path = company/uken-DataEngineerChallenge
+	url = https://github.com/uken/DataEngineerChallenge.git
+[submodule "company/uken-SoftwareEngineerChallenge"]
+	path = company/uken-SoftwareEngineerChallenge
+	url = https://github.com/uken/SoftwareEngineerChallenge.git
+[submodule "company/uken-BackendEngineerChallenges"]
+	path = company/uken-BackendEngineerChallenges
+	url = https://github.com/uken/BackendEngineerChallenges.git
+[submodule "company/pleo-data-engineer-challenge"]
+	path = company/pleo-data-engineer-challenge
+	url = https://github.com/pleo-io/data-engineer-challenge.git
+[submodule "company/travelaudience-data-engineering-challenge"]
+	path = company/travelaudience-data-engineering-challenge
+	url = https://github.com/travelaudience/data-engineering-challenge.git
+[submodule "company/luizalabs-de-challenge"]
+	path = company/luizalabs-de-challenge
+	url = https://github.com/matheusencarnacao/luizalabs_challenge.git
+[submodule "company/Semantix-Data-Engineering-Challenge"]
+	path = company/Semantix-Data-Engineering-Challenge
+	url = https://github.com/Lucas-Zanferrari/Data_Engineering_Challenge.git
+[submodule "company/hvar-data-engineer-challenge"]
+	path = company/hvar-data-engineer-challenge
+	url = https://github.com/hvarconsulting/hvar-data-engineer-challenge.git
+[submodule "company/hvar-software-engineer-challenge"]
+	path = company/hvar-software-engineer-challenge
+	url = https://github.com/hvarconsulting/software-engineer-challenge.git
+[submodule "company/EverlyWell-data-engineering-challenge"]
+	path = company/EverlyWell-data-engineering-challenge
+	url = https://github.com/EverlyWell/data-engineering-challenge.git
+[submodule "company/EverlyWell-platform-challenge"]
+	path = company/EverlyWell-platform-challenge
+	url = https://github.com/EverlyWell/platform-challenge.git
+[submodule "company/EverlyWell-backend-challenge"]
+	path = company/EverlyWell-backend-challenge
+	url = https://github.com/EverlyWell/backend-challenge.git
+[submodule "company/pn-data_engineering"]
+	path = company/pn-data_engineering
+	url = https://github.com/maxulan/pn_data_engineering.git
