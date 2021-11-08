@@ -1,2 +1,2 @@
 # challenges
-challenge of SE and DE from some companies
+SE and DE challenges from some companies
